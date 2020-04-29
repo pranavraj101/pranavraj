@@ -53,6 +53,11 @@ hr{
   color: #333333;
   font-size: 16px;
 }
+.about-description{
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
 
 /****Blog designing*****/
 .blog-design
